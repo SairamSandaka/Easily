@@ -1,0 +1,15 @@
+#skills{
+    border: 1px solid blue;
+    color: blue;
+    padding: 2px;
+}
+#skills:hover{
+    background-color: lightblue;
+}
+#card {
+    display: flex !important;
+    flex-direction: row !important;
+    height: 100%;
+    justify-content: space-around;
+    margin-top: 50px;
+}
